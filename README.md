@@ -1,16 +1,11 @@
 # project_siakad
 
-A new Flutter project.
+Developed by: bagasbest
 
-## Getting Started
+## Getting Started to clone this project
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repo git clone https://github.com/bagasbest/Projek-Siakad.git
+2. Go to your project folder and open terminal
+3. Run: flutter pub get
+4. After complete, run: on android/ios available device
+6. It will open app your active devices
